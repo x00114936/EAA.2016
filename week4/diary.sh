@@ -2,6 +2,8 @@
 
 diaryfile=diary.txt
 
+#this is a change
+
 echo "Please enter your diary entry"
 
 read var
